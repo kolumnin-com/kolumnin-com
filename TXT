@@ -1,2 +1,3 @@
 _github-pages-challenge-kolumnin-com IN CNAME www.kolumnin.com 3afac3bab308a73c8b53ea3c2d757c
 _github-challenge-kolumnin-com-organization IN CNAME .kolumnin.com 045700edfe
+kolumnin-com.github.io IN CNAME kolumnin.com
