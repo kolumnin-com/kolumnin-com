@@ -1,4 +1,4 @@
-# kolumnin.com
+# kolumnin-com
 kolumnin.com GitHub organization repository
 
 
