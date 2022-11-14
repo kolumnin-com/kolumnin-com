@@ -1,1 +1,1 @@
-kolumnin firebase app
+[kolumnin firebase app]()
