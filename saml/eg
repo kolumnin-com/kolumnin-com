@@ -1,0 +1,15 @@
+<samlp:Response ...>
+  <saml:Assertion ...>
+    <saml:Subject>
+      <saml:NameID ...>...</saml:NameID>
+      <saml:SubjectConfirmation ...>
+        <saml:SubjectConfirmationData Recipient="https://ghe.corp.example.com/saml/consume" .../>
+      </saml:SubjectConfirmation>
+    </saml:Subject>
+    <saml:AttributeStatement>
+      <saml:Attribute FriendlyName="USERNAME-ATTRIBUTE" ...>
+        <saml:AttributeValue>monalisa</saml:AttributeValue>
+      </saml:Attribute>
+    </saml:AttributeStatement>
+  </saml:Assertion>
+</samlp:Response>
